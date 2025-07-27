@@ -1,6 +1,4 @@
-## Hello there 👋
-
-#### An aspiring Software Engineer.
+## Hello there
 
 Interested in Backend/desktop software development</br>
 Analisys and System Development at [FatecZl](https://www.fateczl.edu.br/)</br>
